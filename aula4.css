@@ -1,0 +1,33 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: 'Pacifico', cursive;
+}
+
+body{
+  background-color: #dadada;
+}
+
+.site{
+  background-color: #0088cc;
+  width: 800px;
+  margin: 0px auto;
+  padding: 50px;
+  font-family: 'Pacifico', cursive;
+  font-size: 40px
+
+}
+
+.site .conteudo{
+  font-family: 'Bangers', cursive;
+  background-color: #ffb3b3;
+  min-height: 300px;
+  margin: 20px 0px;
+  padding: 15px 0px;
+  border-width: 5px;
+  border-color: #000033;
+  border-style: dashed;
+
+  /* ou border: 5px #000033 dashed */
+}
