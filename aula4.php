@@ -15,7 +15,23 @@
 
       <div class="conteudo">
         Corpo do site
+        <h3>butao</h3>
+        <div class="butao">
+        <a href="#" class="botazul">BUTAOA</a>
+        <a href="#" class="botverde">BUTAOV</a>
+        <a href="#" class="botverm">BUTAOVR</a>
       </div>
+      </div>
+      <div class="menu">
+
+        <ul>
+          <li> <a href="#"> Pagina inicial </a></li>
+          <li> <a href="#"> Cadastro </a></li>
+          <li> <a href="#"> Contato </a></li>
+          <li> <a href="#"> Ajuda </a></li>
+          <li> <a href="#"> Login </a></li>
+          <br>
+        </div>
 
     <div class="rodape">
       Desenvolvido por Guidaros

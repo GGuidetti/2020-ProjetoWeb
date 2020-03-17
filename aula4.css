@@ -3,20 +3,78 @@
   padding: 0px;
   text-align: center;
   font-family: 'Pacifico', cursive;
+
 }
 
 body{
-  background-color: #dadada;
+  background-color: #0088cc;
 }
 
+.menu {
+  background-color: #d9d9d9;
+}
+
+.menu a{
+  text-decoration: none;
+  display: inline-block;
+
+  background-color: #d9d9d9;
+}
+
+.menu a:hover{
+  background-color: #999999;
+}
+
+
 .site{
-  background-color: #0088cc;
+  background-color: #0099e6;
   width: 800px;
   margin: 0px auto;
   padding: 50px;
   font-family: 'Pacifico', cursive;
   font-size: 40px
 
+}
+
+
+.botazul{
+background-color:#9999ff;
+text-decoration: none;
+border: solid 1px;
+}
+.botazul:hover{
+background-color: #8080ff;
+}
+
+.botverm{
+background-color:#ff9999;
+text-decoration: none;
+border: solid 1px;
+
+}
+.botverm:hover{
+background-color: #ff8080;
+}
+
+.menu ul{
+  /*remove as bolota*/
+  list-style-type: none
+}
+
+.menu ul li{
+  /*bota em fila*/
+  display: inline-block;
+
+}
+
+.botverde{
+background-color:#99ff99;
+text-decoration: none;
+border: solid 1px;
+border-radius: 25px;
+}
+.botverde:hover{
+background-color: #66ff66;
 }
 
 .site .conteudo{
