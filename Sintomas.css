@@ -1,0 +1,31 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: 'Barlow', cursive;
+
+}
+
+
+
+
+ul.a {
+  list-style-type: circle;
+  padding: 0px 500px;
+
+}
+
+.titulo{
+  padding: 10px 0px;
+  color:#000000;
+}
+
+.subtitulo{
+  padding: 10px 0px;
+  color:#000000;
+}
+
+.sint{
+  padding: 10px 0px;
+  border-top: solid 1px;
+}

@@ -1,0 +1,38 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  text-align: center;
+  font-family: 'Barlow', cursive;
+
+}
+
+
+
+
+ul.a {
+  list-style-type: circle;
+  padding: 0px 100px;
+  font-weight: bold;
+
+
+}
+
+.titulo{
+  padding: 10px 0px;
+  color:#000000;
+}
+
+.img{
+  padding: 20px;
+
+}
+
+.subtitulo{
+  padding: 10px 0px;
+  color:#000000;
+}
+
+.cuidados{
+  padding: 10px 0px;
+  border-top: solid 1px;
+}
