@@ -29,3 +29,37 @@ ul.a {
   padding: 10px 0px;
   border-top: solid 1px;
 }
+
+.Cuidados{
+background-color:#ff9999;
+text-decoration: none;
+border: solid 1px;
+font-size: 30px;
+display: block;
+
+}
+.Cuidados:hover{
+background-color: #ff8080;
+}
+
+.Quarentena{
+  background-color:#99ff99;
+  text-decoration: none;
+  border: solid 1px;
+  font-size: 30px;
+  display: inline-block;
+  display: block;
+  }
+.Quarentena:hover{
+  background-color: #66ff66;
+  }
+
+
+a.Cuidados:link{
+    color: #000000
+
+  }
+a.Quarentena:link{
+    color: #000000
+
+    }

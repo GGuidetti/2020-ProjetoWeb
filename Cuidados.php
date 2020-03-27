@@ -29,5 +29,11 @@
 <div class="img">
 <img src="https://ipc.digital/wp-content/uploads/2020/03/CDAD74BD-161C-4779-890E-FC9CBC4C9A1D.jpeg"  width="800" height="500" alt="">
 </div>
+
+<div class="Menu">
+  <a href="Sintomas.php" class="Sintomas">Sintomas</a>
+  <a href="Quarentena.php" class="Quarentena">Pagina inicial</a>
+</div>
+
 </body>
 </html>

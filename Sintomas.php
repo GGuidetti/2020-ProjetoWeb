@@ -24,6 +24,9 @@ Os principais são sintomas conhecidos até o momento são:</h3><br>
 <li><h2>Tosse</h2></li>
 <li><h2>Dificuldade de Respiração</h2></li>
 </ul>
-
+<div class="Menu">
+  <a href="Cuidados.php" class="Cuidados">Cuidados</a>
+  <a href="Quarentena.php" class="Quarentena">Pagina inicial</a>
+</div>
 </body>
 </html>
