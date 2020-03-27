@@ -38,19 +38,25 @@ ul.a {
 }
 
 .Sintomas{
-background-color:#ff9999;
-text-decoration: none;
-border: solid 1px;
-font-size: 30px;
-display: block;
+  background-color:#939393;
+  text-decoration: none;
+  border: solid 1px;
+  font-size: 30px;
+  display: block;
+  color: #000D74;
 
 }
 .Sintomas:hover{
 background-color: #ff8080;
 }
 
+body {
+  background-image: url('https://hougumlaw.com/wp-content/uploads/2016/05/light-website-backgrounds-light-color-background-images-light-color-background-images-for-website-1024x640.jpg');
+  background-size: 100%
+}
+
 .Quarentena{
-  background-color:#99ff99;
+  background-color:#939393;
   text-decoration: none;
   border: solid 1px;
   font-size: 30px;
@@ -58,7 +64,7 @@ background-color: #ff8080;
   display: block;
   }
 .Quarentena:hover{
-  background-color: #66ff66;
+  background-color: #626BAF;
   }
 
 

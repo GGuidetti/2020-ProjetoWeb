@@ -7,6 +7,7 @@
   <link href="https://fonts.googleapis.com/css?family=Barlow&display=swap" rel="stylesheet">
 </head>
 <body>
+
   <div class="titulo">
     <h1>CUIDADOS PARA A PREVENÇÃO DA DOENÇA:</h1>
 
